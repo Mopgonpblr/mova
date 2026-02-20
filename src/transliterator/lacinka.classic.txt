@@ -1,6 +1,12 @@
 [consonant-soft]
 б в г з к м н п с ф х ц
 
+[consonant-soft-near]
+б в з м н п с ф ц
+
+[softer]
+е ё і ь ю я 
+
 а a
 б b
 в v
@@ -39,6 +45,9 @@
 ' 
 ’ 
 ʼ 
+'і ji
+’і ji
+ʼі ji
 
 ле le
 лё lo
@@ -53,10 +62,15 @@
 [consonant-soft]я ia
 
 зь ź
+з[consonant-soft-near][softer] ź
 ль l
+лл[softer] ll
 нь ń
+нн[softer] ńn
 сь ś
+с[consonant-soft-near][softer] ś
 ць ć
+ц[consonant-soft-near][softer] ć
 
 « "
 » "
